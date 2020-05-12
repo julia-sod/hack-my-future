@@ -19,7 +19,7 @@
 
 ### Working with Code
 * [Markdown Home Page](https://badgerbadgerbadger.com)
-* [My bio on the class repo](https://badgerbadgerbadger.com)
+* [My bio on the class repo](https://github.com/julia-sod/class-9-10/blob/master/student-bios/julia-sod.md)
 * [Hack My Future](./README.md)
 
 ### Incremental Development
